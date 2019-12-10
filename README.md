@@ -1,7 +1,7 @@
 # YandexLyceum
 
 Hello to everyone!
-I use this reprisitory to store and share my Yandex.Lyceum works.
+I use this repository to store and share my Yandex.Lyceum works.
 
 There are two different types of branches:
 
@@ -19,7 +19,7 @@ GL
 # Яндекс.Лицей
 
 Привет всем! 
-Я использую этот репризиторий ("папку"/"проект") как место хранения моих работ по программе Я.Лицея.
+Я использую этот репозиторий ("папку"/"проект") как место хранения моих работ по программе Я.Лицея.
 
 В этом репризитории "бранчи" (папки/branches) делятся на:
 
